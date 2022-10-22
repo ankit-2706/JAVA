@@ -1,0 +1,10 @@
+/*
+case 1 :
+pivot element = target --> ans
+case 2:
+target > start element
+search space = ( start,p-1)
+case 3:
+target < start element
+i.e, we lnow that all elements from start,pivot are going to be bigger than target
+*/
